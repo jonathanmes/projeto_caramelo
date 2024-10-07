@@ -14,4 +14,4 @@ Para iniciação do projeto teremos os seguintes requisitos para a estrutura.
 
 ## Macro
 A estrutura básica do projeto focará em um fluxo de extração de dados completo de dados de forma bem simples, onde analisaremos quais as ferramentas e métodos que poderemos utilizar em cada ponto, o principal objetivo deste projeto é sempre encontrar a melhor ferramenta/metodologia para cada ponto, com isso começaremos pequenos e aumentaremos a complexidades conforme passarmos o tempo.
-![[Pasted image 20241007084539.png]]
+![Diagrama](https://github.com/jonathanmes/projeto_caramelo/blob/main/Pasted%20image%2020241007084539.png?raw=true)
